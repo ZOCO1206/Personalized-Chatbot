@@ -1,0 +1,40 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns":["hello", "hey", "hi", "good day", "Greetings", "what's up?", "how is it going?"],
+    "Responses":["Hello!", "Hey!", "What can I do for you?"]},
+    {"tag": "goodbye",
+"patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+"responses":["Sad to see you go :(", "Talk to you later", "Goodbye!"]},
+{"tag": "age",
+"patterns": ["how old", "how old is Amayash", "what is your age", "how old are you", "age?"],
+"responses":["My owner Amayash is 21 years old!", "21 years!"]
+},
+{"tag":"name",
+"patterns": ["what is your name", "what should I call you", "whats your name?", "who are you?", "Can you tell me yourname"],
+"responses":["You can call me Jarvi!.", "I'm Jarvis!", "I'm Jarvis your personal assistant!"]
+},
+{"tag":"Youtube",
+"patterns": [ "Id like to see some videos", "Where are your videos?", "what do you recommend?", "where can I watch the videos", "what is the name?"],
+"responses" : ["Amayash has several videos up on YouTube under the alias ZOCO GAMES"]
+},
+{"tag": "hours",
+"patterns": ["when are you guys open", "what are your hours", "hours of operation"],
+"responses":["24/7"]
+},
+{"tag": "code",
+"patterns": ["when are the codes stored?", "Is there any place where the codes are uploaded", "whre are codes uploaded","code link"],
+"responses":["All the codes are provided on my owner's GitHub @ZOCO1206"]
+},
+{"tag": "hobbies",
+"patterns": ["hobbies", "what are your hobbies"],
+"responses":["My hobby is to assist you"]
+},
+{"tag": "Owner's hobbies",
+"patterns": ["Owner's hobbies","Owners hobbies", "what are your owner's hobbies?","what are your owners hobbies?"],
+"responses":["My owner's hobbies are Coding, badminton and playing video games"]
+},
+{"tag": "liking",
+"patterns": ["What does your owner likes","Owners liking", "what are your owner's liking?","what are your owners favorites?"],
+"responses":["My owner likes Cars, Bikes and travelling"]
+}
+]}
